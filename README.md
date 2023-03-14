@@ -1,3 +1,3 @@
 # test-fortran
 
-To **build**, use `gfortran -o testin.f testin`.
+To **build**, use `gfortran -o testin testin.f`.
